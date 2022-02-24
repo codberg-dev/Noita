@@ -1,4 +1,4 @@
-package codberg.codberg.noita
+package codberg.codberg.noitavonni
 
 import org.junit.Test
 
